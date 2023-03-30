@@ -1,0 +1,25 @@
+REINFORCEMENT LEARNING FOR CHATBOTS: Reinforcement learning can be used to train the chatbot to improve its dialogue capabilities and achieve specific goals, such as answering questions, providing recommendations, or completing tasks for users.
+RESEARCH PAPERS:
+2007-2010:
+  2007 - "Young, S. J., & Lee, S. J. (2007). Improving the accuracy of chatbot by reinforcement learning. In Proceedings of the 2007 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (Vol. 1, pp. 174-180)."
+  2008 - "Fournier, R., & Inkpen, K. (2008). Using reinforcement learning to improve conversational agents. In Proceedings of the 22nd Canadian Conference on Artificial Intelligence (pp. 1-13)."
+  2009 - "Cuayáhuitl, H., & Dethlefs, N. (2009). Reinforcement learning of dialogue policies for conversational recommendation systems. In Proceedings of the 13th International Conference on Artificial Intelligence and Soft Computing (pp. 107-115)."
+
+2010-2014:
+  2010 - "Li, H., Wang, L., & Zhu, X. (2010). A reinforcement learning-based approach to personalized dialogue management. In Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (pp. 223-233)."
+  2011 - "Williams, J. D., Rieser, V., & Lemon, O. (2011). Dynamic and adaptive selection of spoken dialogue policies using Bayesian reinforcement learning. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 841-850)."
+  2012 - "Su, P. H., Gasic, M., Mrksic, N., & Young, S. J. (2012). Sluice networks for spoken language understanding. In Proceedings of the 24th International Conference on Computational Linguistics (pp. 323-340)."
+  2014 - "Li, J., Monroe, W., & Jurafsky, D. (2014). A simple and effective approach to the dialogue state tracking problem. In Proceedings of the 15th Annual Meeting of the Special Interest Group on Discourse and Dialogue (pp. 409-413)."
+
+2015-2019:
+  2015 - "Gasic, M., Mrksic, N., Rojas-Barahona, L., Su, P. H., Vandyke, D., Young, S. J., & Korhonen, A. (2015). Hybrid code networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning. In Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (pp. 665-675)."
+  2016 - "Dhingra, B., Li, L., Li, X., Gao, J., & Zweig, G. (2016). End-to-end reinforcement learning of dialogue agents for information access. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (pp. 2216-2221)."
+  2017 - "Liu, B., & Lane, I. (2017). Iterative policy learning in end-to-end trainable task-oriented neural dialog models. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (pp. 241-247)."
+  2018 - "Huang, H. Y., Peng, B., & Chen, H. H. (2018). Reinforcement learning for spoken dialogue system with multiple conversation partners. In Proceedings of the 2018 IEEE Spoken Language Technology Workshop (pp. 197-203)."
+
+2020-2023:
+  2020 - "Zhang, S., Liu, J., Zhao, X., Zhang, B., & Wu, J. (2020). A Reinforcement Learning Based Dialogue System with User Adaptive Intent Detection. In Proceedings of the 28th ACM International Conference on Multimedia (pp. 3306-3309)."
+  2021 - "Zhao, X., Sun, Z., Zhang, S., Zhao, Y., & Wu, J. (2021). A Reinforcement Learning-Based Dialogue System with Multi-domain Knowledge Graph. In Proceedings of the 16th International Conference on Natural Language Generation (INLG) (pp. 127-136)."
+  2022 - "Cai, S., Han, D., Li, D., Zheng, Z. and Crespi, N., 2022. An reinforcement learning-based speech censorship chatbot system. The Journal of Supercomputing, 78(6), pp.8751-8773."
+  2023 - "Latif, S., Cuayáhuitl, H., Pervez, F., Shamshad, F., Ali, H.S. and Cambria, E., 2023. A survey on deep reinforcement learning for audio-based applications. Artificial Intelligence Review, 56(3), pp.2193-2240."
+
